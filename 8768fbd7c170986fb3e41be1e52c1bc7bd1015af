@@ -1,0 +1,1 @@
+{"jobID":"8e12b7b3-6be2-3504-31df-a25dc2320699","spec":{"type":"policy","cause":{"Message":"","User":"Ali Cheaito \u003cacheaito@fastmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
